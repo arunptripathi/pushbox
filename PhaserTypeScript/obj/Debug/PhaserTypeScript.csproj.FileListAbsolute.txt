@@ -1,0 +1,6 @@
+c:\users\arun.p.tripathi\documents\visual studio 2015\Projects\PhaserTypeScript\PhaserTypeScript\obj\Debug\PhaserTypeScript.csprojResolveAssemblyReference.cache
+c:\users\arun.p.tripathi\documents\visual studio 2015\Projects\PhaserTypeScript\PhaserTypeScript\bin\PhaserTypeScript.dll.config
+c:\users\arun.p.tripathi\documents\visual studio 2015\Projects\PhaserTypeScript\PhaserTypeScript\bin\PhaserTypeScript.dll
+c:\users\arun.p.tripathi\documents\visual studio 2015\Projects\PhaserTypeScript\PhaserTypeScript\bin\PhaserTypeScript.pdb
+c:\users\arun.p.tripathi\documents\visual studio 2015\Projects\PhaserTypeScript\PhaserTypeScript\obj\Debug\PhaserTypeScript.dll
+c:\users\arun.p.tripathi\documents\visual studio 2015\Projects\PhaserTypeScript\PhaserTypeScript\obj\Debug\PhaserTypeScript.pdb
